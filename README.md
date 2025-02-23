@@ -50,9 +50,9 @@ Ensure you have the following installed:
  cd Transcribe-It
  pip install -r requirements.txt
 ```
-2. Bring your audio files (in mp3) format to the same folder as main.py file.
+2. Bring your audio files (in mp3) format to the same folder as main.py file and run.
 ```bash
-    python main.py
+python main.py
 ```
 ### **Contributions***
 Suggestions and contributions are welcome! If you have suggestions, feature requests, or find any issues, feel free to:
@@ -60,7 +60,7 @@ Suggestions and contributions are welcome! If you have suggestions, feature requ
     Open an issue
     Submit a pull request
 
-Let’s make Transcribe-It better together!
+Help me make Transcribe-It better together!
 
-Copyright © Suvash Sharma Subedi 2025
+## **Copyright © Suvash Sharma Subedi 2025**
 
