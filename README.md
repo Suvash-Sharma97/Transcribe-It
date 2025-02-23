@@ -4,9 +4,9 @@
 
 ## **📖 Overview**
 **Transcribe-It** is a Python-based audio transcription tool designed for **automatically converting speech into text**. 
-It was initially developed to transcribe **assignment audio files** for a **German course** in **NPTEL** (a *3rd-year compulsory subject*). 
+I initially wrote the script to transcribe **assignment audio files** for a **German course** in **NPTEL** (as a*3rd-year compulsory subject*). 
 
-Understanding the spoken content in these recordings was challenging, so I created this to streamline the process. 
+Understanding the spoken content in these recordings was challenging for me, so I created this tool to streamline the process. 
 
 ## **⚙️ How It Works**
 - The script **converts MP3 audio files** into **WAV (Waveform Audio Format)** and stores them in a temporary directory: 
@@ -49,18 +49,18 @@ Ensure you have the following installed:
  git clone https://github.com/Suvash-Sharma97/Transcribe-It.git
  cd Transcribe-It
  pip install -r requirements.txt
-
+```
 2. Bring your audio files (in mp3) format to the same folder as main.py file.
 ```bash
-    python3 main.py
-
+    python main.py
+```
 ### **Contributions***
 Suggestions and contributions are welcome! If you have suggestions, feature requests, or find any issues, feel free to:
 
     Open an issue
     Submit a pull request
 
-Let’s make Transcribe-It better together! 🚀
+Let’s make Transcribe-It better together!
 
 Copyright © Suvash Sharma Subedi 2025
 
